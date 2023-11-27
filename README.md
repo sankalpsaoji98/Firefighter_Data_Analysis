@@ -9,7 +9,7 @@ This work is a research paper that was created as part of my work with Dr. Dillo
 Citation: Dzikowicz DJ, Saoji S, Tam C, Brunner W, & Carey MG (2023).The Effect of Mandatory Fitness Requirements on Cardiovascular Events: A State-by-State Analysis Using a National Database. Workplace Health & Safety, Under Review.
 
 ## Table of Contents
-- [Abstract] (#abstract)
+- [Abstract](#abstract)
 - [Software](#software)
 - [Data](#data)
 - [Results](#results)
@@ -40,7 +40,6 @@ Emphasis on nuanced examination of fitness standards' impact on volunteer firefi
 3) MATLAB
 
 ## Data
-
 **Source:**
 The dataset is sourced from the United States Fire Administration's Firefighter Fatalities database, a transparent and regularly updated repository (https://apps.usfa.fema.gov/firefighter-fatalities/).
 
