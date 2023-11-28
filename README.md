@@ -83,13 +83,16 @@ The study adheres to ethical guidelines, ensuring the protection of sensitive in
 
 ## Results
 
-<img width="969" alt="image" src="https://github.com/sankalpsaoji98/Digital_Education_Project/assets/26198596/91263652-15ed-4245-8d7e-c82b0a24b6c1">
+<img width="677" alt="Screenshot 2023-11-28 at 11 36 45 AM" src="https://github.com/sankalpsaoji98/Firefighter_Data_Analysis/assets/26198596/2377b99f-80d1-4b35-ad39-6b56f079f856">
 
-<img width="907" alt="image" src="https://github.com/sankalpsaoji98/Digital_Education_Project/assets/26198596/83a91ba5-7bf7-435a-958f-87a7c42d4555">
+<img width="691" alt="Screenshot 2023-11-28 at 11 37 03 AM" src="https://github.com/sankalpsaoji98/Firefighter_Data_Analysis/assets/26198596/b1f9dad2-c01b-4ccd-822e-eb99f73892f1">
 
-<img width="470" alt="image" src="https://github.com/sankalpsaoji98/Digital_Education_Project/assets/26198596/d4b38635-b0d6-4777-b890-080dc5f28c37">
+<img width="681" alt="Screenshot 2023-11-28 at 11 37 34 AM" src="https://github.com/sankalpsaoji98/Firefighter_Data_Analysis/assets/26198596/40b31238-f4d5-462b-8469-f91a10acbad0">
 
-<img width="354" alt="image" src="https://github.com/sankalpsaoji98/Digital_Education_Project/assets/26198596/77c34924-118d-4ddc-b0db-61abf0676823">
+<img width="498" alt="Screenshot 2023-11-28 at 11 38 04 AM" src="https://github.com/sankalpsaoji98/Firefighter_Data_Analysis/assets/26198596/f8aa36c4-19cf-41e5-8153-9c6e0224aef4">
+
+<img width="554" alt="Screenshot 2023-11-28 at 11 38 22 AM" src="https://github.com/sankalpsaoji98/Firefighter_Data_Analysis/assets/26198596/ac5b3826-b07f-4d73-a388-9b7962601679">
+
 
 ## Acknowledgements
-The work was done for University of Rochester Medical Center and is the property of the company.
+The work was done for University of Rochester School of Nursing and is the property of the company.
